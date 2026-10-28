@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Connectivity App",
+    "slug": "connectivity-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true },
+    "android": {
+      "permissions": ["ACCESS_NETWORK_STATE"]
+    },
+    "web": { "bundler": "metro" }
+  }
+}
